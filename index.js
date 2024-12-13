@@ -36,6 +36,6 @@ else{
 }
     
 }
-const refreshBtn = document.getelementbyid(refreshBtn);
+const refreshBtn = document.getElementById("refreshBtn");
 
 refreshBtn = onclick.location.reload();
